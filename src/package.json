@@ -1,0 +1,11 @@
+{
+  "name": "rest-api",
+  "version": "1.0.0",
+  "description": "Basic CRUD operation on JS",
+  "main": "app.js",
+  "scripts": {
+    "start": "json-server --watch db/db.json port 3050"
+  },
+  "author": "polytechnix",
+  "license": "ISC"
+}

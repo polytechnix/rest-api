@@ -1,0 +1,110 @@
+{
+  "users": [
+    { 
+	"id": 1, 
+	"name": "Виталий",
+	"avatar": "2874695878609560.jpg", 
+	"city": "Москва",
+	"speciality": "tuner",
+	"status": "Публичное сообщение Виталия",
+	"email": "vitaly@email.ru"
+    },
+    { 
+	"id": 2, 
+	"name": "Елизавета",
+	"avatar": "6958708609562874.jpg", 
+	"city": "Санкт-Петербург",
+	"speciality": "tutor",
+	"status": "Публичное сообщение Елизаветы",
+	"email": "elizaveta@email.ru"
+    },
+    { 
+	"id": 3, 
+	"name": "Анатолий",
+	"avatar": "7469587086280956.jpg", 
+	"city": "Тула",
+	"speciality": "transporter",
+	"status": "Публичное сообщение Анатолия",
+	"email": "tolyan@email.ru"
+    },
+    { 
+	"id": 4, 
+	"name": "Ольга",
+	"avatar": "8708609528746965.jpg", 
+	"city": "Липецк",
+	"speciality": "teacher",
+	"status": "Публичное сообщение Ольги",
+	"email": "olga@email.ru"
+    },
+    { 
+	"id": 5, 
+	"name": "Николай",
+	"avatar": "2469587870865609.jpg", 
+	"city": "Москва",
+	"speciality": "restorer",
+	"status": "Публичное сообщение Николая",
+	"email": "kolyan@email.ru"
+    },
+    { 
+	"id": 6, 
+	"name": "Дмитрий",
+	"avatar": "2874695870860956.jpg", 
+	"city": "Санкт-Петербург",
+	"speciality": "tuner",
+	"status": "Публичное сообщение Дмитрия",
+	"email": "dmitry@email.ru"
+    },
+    { 
+	"id": 7, 
+	"name": "Евгений",
+	"avatar": "8728746950860956.jpg", 
+	"city": "Воронеж",
+	"speciality": "tuner",
+	"status": "Публичное сообщение Евгения",
+	"email": "evgenius@email.ru"
+    },
+    { 
+	"id": 8, 
+	"name": "Роман",
+	"avatar": "9746289587086056.jpg", 
+	"city": "Елец",
+	"speciality": "transporter",
+	"status": "Публичное сообщение Романа",
+	"email": "roman@email.ru"
+    }
+  ],
+  "cities": [
+    { 
+	"id": 1, 
+	"city": "Москва"
+    },
+    { 
+	"id": 2, 
+	"city": "Воронеж"
+    },
+    { 
+	"id": 3, 
+	"city": "Липецк"
+    },
+    { 
+	"id": 4, 
+	"city": "Белгород"
+    },
+    { 
+	"id": 5, 
+	"city": "Курск"
+    },
+    { 
+	"id": 6, 
+	"city": "Елец"
+    },
+    { 
+	"id": 7, 
+	"city": "Тула"
+    },
+    { 
+	"id": 8, 
+	"city": "Санкт-Петербург"
+    }
+  ]
+}
